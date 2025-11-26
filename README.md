@@ -3,7 +3,7 @@
 **Biotechnology Engineer & Computational Biology Student**
 Based in Bordeaux, France 🇫🇷.
 
-I bridge the gap between **wet lab biology** (Genomics, NGS) and **dry lab analysis** (Python, Data Science). Currently looking for an **Alternance / Apprenticeship** in Bioinformatics starting 06/2026.
+I bridge the gap between **wet lab biology** (Genomics, NGS) and **dry lab analysis** (Python, Data Science). Currently looking for an **Alternance / Apprenticeship** in Bioinformatics starting September 2025.
 
 ---
 
@@ -24,6 +24,6 @@ I bridge the gap between **wet lab biology** (Genomics, NGS) and **dry lab analy
 ---
 
 ### 📫 Connect with me
-* [LinkedIn](linkedin.com/in/mohammed-aymen-lahmer-3276a6290)
-* 📧 Email: mohamed.aymen.lahmer@gmail.com
-*           mohammed-aymen.lahmer@etu.u-bordeaux.fr
+* [LinkedIn](VOTRE_LIEN_LINKEDIN_ICI)
+* 📧 **Perso:** mohamed.aymen.lahmer@gmail.com
+* 🎓 **Univ:** mohammed-aymen.lahmer@etu.u-bordeaux.fr
