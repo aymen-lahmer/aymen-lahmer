@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there, I'm Mohammed Aymen LAHMER 👋
 
-<!--
-**aymen-lahmer/aymen-lahmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Biotechnology Engineer & Computational Biology Student**
+Based in Bordeaux, France 🇫🇷.
 
-Here are some ideas to get you started:
+I bridge the gap between **wet lab biology** (Genomics, NGS) and **dry lab analysis** (Python, Data Science). Currently looking for an **Alternance / Apprenticeship** in Bioinformatics starting 06/2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+* **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+* **Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib.
+* **Bioinformatics:** BioPython, NGS Analysis (MGI/Illumina), Galaxy, NCBI Tools.
+* **Databases:** SQL, GenBank, UniProt.
+
+---
+
+### 🔬 Featured Project
+**🧬 Lung Cancer Recurrence Prediction (Machine Learning)**
+* **Goal:** Developing a predictive model to identify recurrence risks in lung cancer patients using clinical data.
+* **Tech:** Python, Scikit-learn, Data Cleaning, Statistical Analysis.
+* **Status:** *Completed (Engineering Graduation Project).*
+
+---
+
+### 📫 Connect with me
+* [LinkedIn](linkedin.com/in/mohammed-aymen-lahmer-3276a6290)
+* 📧 Email: mohamed.aymen.lahmer@gmail.com
+*           mohammed-aymen.lahmer@etu.u-bordeaux.fr
