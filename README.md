@@ -24,6 +24,6 @@ I bridge the gap between **wet lab biology** (Genomics, NGS) and **dry lab analy
 ---
 
 ### 📫 Connect with me
-* [LinkedIn](VOTRE_LIEN_LINKEDIN_ICI)
+* [LinkedIn](linkedin.com/in/mohammed-aymen-lahmer-3276a6290)
 * 📧 **Perso:** mohamed.aymen.lahmer@gmail.com
 * 🎓 **Univ:** mohammed-aymen.lahmer@etu.u-bordeaux.fr
