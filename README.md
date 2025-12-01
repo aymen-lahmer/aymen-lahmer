@@ -3,7 +3,7 @@
 **Biotechnology Engineer & Computational Biology Student**
 Based in Bordeaux, France 🇫🇷.
 
-I bridge the gap between **wet lab biology** (Genomics, NGS) and **dry lab analysis** (Python, Data Science). Currently looking for an **Alternance / Apprenticeship** in Bioinformatics starting September 2025.
+I bridge the gap between **wet lab biology** (Genomics, NGS) and **dry lab analysis** (Python, Data Science). Currently looking for an **Alternance / Apprenticeship** in Bioinformatics .
 
 ---
 
